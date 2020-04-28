@@ -1,0 +1,4 @@
+areas = [
+  "nuernberg",
+  "fuerth"
+]
